@@ -1,11 +1,14 @@
-# LeetCode Solutions
+# LeetCode Java Solutions
 
 I have solved 200+ LeetCode problems using Java.
 
-This repository contains my solutions and practice
-for Data Structures and Algorithms.
+## Progress
 
-## Topics
+- 200+ Problems Solved
+- Language: Java
+- Focus: Data Structures & Algorithms
+
+## Topics Practiced
 
 - Arrays
 - Strings
@@ -14,3 +17,4 @@ for Data Structures and Algorithms.
 - HashMap
 - Binary Trees
 - Recursion
+- Dynamic Programming
